@@ -14,5 +14,5 @@ Motor: Construct2 Release 280 (64-bit).
 
 Puede descargarlo y jugarlo online a través de la plataforma itch.io:
 
-![Marco el estafador](https://escueladavinci.itch.io/marco-el-estafador)
+[Marco el estafador](https://escueladavinci.itch.io/marco-el-estafador)
 
